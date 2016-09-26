@@ -16,5 +16,7 @@ This category is for various WordPress related, time saving macros when dealing 
 ### Misc. 
 
 * **Copy Chrome URL to keyboard** - Copies the web address currently open in Chrome to the system clipboard with a designated shortcut.
+* **Blockquote (Insert Quote HTML)** - Takes the currently selected text, and wraps it in `<blockquote>` `</blockquote>` tags.
+* **Blockquote (Insert Quote HTML) - Keyboard Shortcut** - Takes the contents of the clipboard, and pastes it wrapped in the `<blockquote>` `</blockquote>` tags.
 * **Make Quote** - Takes selected blocks of text and adds `>` quote tags before, on new lines where appropriate.
 * **Wrap in Para tags** - Pastes the current clipboard, wrapped in paragraph (`<p>`) tags.
